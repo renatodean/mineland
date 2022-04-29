@@ -1,0 +1,2 @@
+# mineland
+Simple Mineland game
